@@ -18,3 +18,21 @@ This project designs a security-hardened Kubernetes platform for a financial ser
 - Development
 - Staging
 - Production
+## Day 3
+
+Completed:
+
+- Namespace Design
+- Environment Isolation
+- Resource Quotas
+- Limit Ranges
+## Day 4 Progress
+
+### Security
+
+Implemented:
+
+- RBAC Roles
+- RoleBindings
+- Least Privilege Access
+- Security Documentation
